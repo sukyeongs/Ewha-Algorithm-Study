@@ -29,5 +29,5 @@ code
 
 
 ### Commit
-- `[Week 1] 문제이름`
-![image](https://user-images.githubusercontent.com/80563849/177355593-4af3aba5-776e-448b-b15f-5c2694b2602a.png)
+- `[Week 1] 문제이름`   
+![image](https://user-images.githubusercontent.com/80563849/177355593-4af3aba5-776e-448b-b15f-5c2694b2602a.png)  
